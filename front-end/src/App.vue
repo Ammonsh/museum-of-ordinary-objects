@@ -15,6 +15,8 @@
   </div>
   <div class="footer">
     <router-link to="/admin">Admin</router-link>
+    <p></p>
+    <a href="https://github.com/Ammonsh/museum-of-ordinary-objects.git">Github</a>
   </div>
 </div>
 </template>
